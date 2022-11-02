@@ -1,0 +1,7 @@
+.Balance{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    margin: 0 auto;
+    padding: .2rem 0;
+}

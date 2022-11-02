@@ -1,0 +1,25 @@
+.IncomeExpenses{
+    /* background-color: rgb(250, 245, 245); */
+    display: flex;
+    justify-content: space-around;
+    width: 25%;
+    margin: 0 auto;
+    background-color: white;
+    padding: .8rem 0;
+}
+.Income , .Expense{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Expense{
+    border-left: 1px solid rgba(0, 0, 0, 0.2);
+    padding-left: 2rem;
+}
+.Income h1{
+    color: rgb(109, 240, 109);
+}
+.Expense h1{
+    color: rgb(245, 60, 60);
+}
