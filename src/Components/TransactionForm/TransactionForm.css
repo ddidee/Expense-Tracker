@@ -5,23 +5,31 @@
     margin: 0 auto;
     padding: 1rem;
 }
+
 .TransactionForm form{
     display: flex;
     flex-direction: column;
-
 }
-.TransactionForm .Button{
+
+.TransactionForm .Input{
     display: flex;
     flex-direction: column;
-
+    padding: .3rem 0;
 }
+
 form label{
-    padding: .5rem;
+    padding: .4rem;
     font-weight: 600;
 }
+
 form input{
-    padding: .3rem;
+    padding: .4rem;
     font-size: .9rem;
     border: none;
     outline: none;
+}
+
+.TransactionForm .Button{
+    display: flex;
+    flex-direction: column;
 }

@@ -1,11 +1,10 @@
 .IncomeExpenses{
-    /* background-color: rgb(250, 245, 245); */
     display: flex;
     justify-content: space-around;
     width: 25%;
     margin: 0 auto;
     background-color: white;
-    padding: .8rem 0;
+    padding: 1rem 0;
 }
 .Income , .Expense{
     display: flex;

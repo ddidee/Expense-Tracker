@@ -14,9 +14,6 @@ const TransactionHistory = () => {
             Rent <span>N200</span>
           </li>
           <li>
-            Bank <span>N200</span>
-          </li>
-          <li>
             Stationery <span>N200</span>
           </li>
 
